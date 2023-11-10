@@ -1,5 +1,8 @@
 # Repositório Game-JavaScript
 
-### Projeto baseado em JavaScript com HTML para o desenvolvimento de um jogo
+### Repositório de desenvolvimento de um projeto utilizando JavaScript e HTML para aplicar os conceitos aprendidos durante as aulas
 
-Em breve, mais anotações...
+
+#### -> O Repositório e composto por vários arquivos HTML com javascript (Básico) para aplicação de conceitos como fuction, laço de repetição, input, e alerta ao usuário.
+
+#### -> Projeto baseado nas aulas do professor Flavio Henrique.
